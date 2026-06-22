@@ -1,0 +1,4 @@
+interface:
+  display_name: "ROS Bag Debugging"
+  short_description: "Diagnose ROS bag failures from logs and code"
+  default_prompt: "Use $rosbag-debugging to analyze the latest ROS bag run and identify the first causal failure."
